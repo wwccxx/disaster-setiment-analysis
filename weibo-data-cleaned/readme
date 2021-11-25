@@ -1,0 +1,2 @@
+1. Total number of weibo tweets is 27758. pre-flood (2021.10.2-2021.10.6): 5773, middle-flood (2021.10.7-2021.10.10): 15284, after-flood(2021.10.11-2021.10.25): 6701.
+2. All the csv files contains [id,user_name,text,location,at_user,topic,retweet_count,comment_count,like_count,date,tool,text_pre,text_pre_list], the cleaned text list is in the column of 'text_pre_list'
