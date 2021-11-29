@@ -1,2 +1,2 @@
-# disaster-setiment-analysis
+# disaster-sentiment-analysis
 544 project
